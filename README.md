@@ -1,11 +1,11 @@
-# Getting Started with the angular Badge Component
+# Getting Started with the Angular Badge Component
 
-A quick start project that shows how to create and configure the Syncfusion angular Badge component in a angular project. It includes a code snippet for different shapes and types of badges. It also includes a code snippet for integrating the Badge with the other UI components.
+A quick start project that shows how to create and configure the Syncfusion Angular Badge component in a Angular project. It includes a code snippet for different shapes and types of badges. It also includes a code snippet for integrating the Badge with the other UI components.
  
-Refer to the following documentation to learn about the angular Badge component: 
+Refer to the following documentation to learn about the Angular Badge component: 
 https://ej2.syncfusion.com/angular/documentation/badge/getting-started
 
-Check out this online example of the angular Badge component:
+Check out this online example of the Angular Badge component:
 https://ej2.syncfusion.com/angular/demos/#/material/badge/default
 
 ## Project prerequisites
