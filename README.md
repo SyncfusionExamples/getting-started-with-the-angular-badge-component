@@ -1,15 +1,36 @@
 # Getting Started with the Angular Badge Component
 
-A quick start project that shows how to create and configure the Syncfusion Angular Badge component in a Angular project. It includes a code snippet for different shapes and types of badges. It also includes a code snippet for integrating the Badge with the other UI components.
- 
-Refer to the following documentation to learn about the Angular Badge component: 
-https://ej2.syncfusion.com/angular/documentation/badge/getting-started
+## Repository Description
+A quick start project demonstrating how to create and configure the Syncfusion Angular Badge component with examples for different shapes, types, and integration patterns with other UI components.
 
-Check out this online example of the Angular Badge component:
-https://ej2.syncfusion.com/angular/demos/#/material/badge/default
+## Features
+- **Badge Shapes**: Various badge shape configurations
+- **Badge Types**: Different badge types and styling options
+- **Component Integration**: Examples of integrating badges with other components
+- **Code Snippets**: Ready-to-use implementation examples
 
-## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
+## Prerequisites
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [NodeJS](https://nodejs.org/en/download) v14 or later
 
-## How to run this application
-To run this application, you need to first clone the `getting-started-with-the-angular-badge-component` repository and then open it in Visual Studio Code. Now, simply Build and run your project using the ng serve command to view the output.
+## Installation
+Clone and set up the project:
+```
+git clone https://github.com/syncfusion/getting-started-with-the-angular-badge-component.git
+cd getting-started-with-the-angular-badge-component
+npm install
+```
+
+## How to Run
+Execute the command to start the development server:
+```
+ng serve
+```
+
+## Usage
+Navigate through the application to view badge component examples and examine code snippets for creating badges with different shapes, types, and integrating them with other Angular components.
+
+## Documentation
+For more information about the Angular Badge component:
+- [Syncfusion Documentation](https://ej2.syncfusion.com/angular/documentation/badge/getting-started)
+- [Live Demo](https://ej2.syncfusion.com/angular/demos/#/material/badge/default)
